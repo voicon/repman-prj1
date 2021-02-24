@@ -1,0 +1,12 @@
+{
+    "name": "soi/repman-prj1",
+    "description": "repman prj 1",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Trần Nguyễn Xuân Vinh",
+            "email": "vinhtnx@younetgroup.com"
+        }
+    ],
+    "require": {}
+}
